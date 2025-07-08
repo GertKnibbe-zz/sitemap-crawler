@@ -28,7 +28,7 @@ Make sure to edit index.py if you want to change the target URL or add filters
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+This project is licensed under the [MIT](LICENSE) License.
 
 
 
