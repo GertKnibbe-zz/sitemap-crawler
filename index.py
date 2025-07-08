@@ -26,7 +26,7 @@ def main():
 
     print(f"Found {len(sitemaps)} sitemaps. URLS are being collected..")
 
-    # Resultaten groeperen per type
+    # Group results by type
     grouped_urls = {}
 
     for sm_url in sitemaps:
